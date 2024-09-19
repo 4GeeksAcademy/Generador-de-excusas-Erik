@@ -9,11 +9,17 @@ window.onload = function() {
   //write your code here
   console.log("Hello Rigo from the console!");
 
-  let who = ["El perro", "La abuela", "La vecina", "El niño", "El gato"];
+  let who = [
+    "El mecanico",
+    "La tia",
+    "La vecina",
+    "El bebe",
+    "La trasportista"
+  ];
   let action = [
-    "se comio un pan",
-    "se murió",
-    "piso al gato",
+    "se comio un alfajor",
+    "se congeló",
+    "piso un tomate",
     "estudió matematicas",
     "se bañó"
   ];
